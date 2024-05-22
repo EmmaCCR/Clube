@@ -1,0 +1,43 @@
+body{
+    margin-left: 400px;
+    margin-right: 400px;
+p{
+    font-size: 29px;
+}
+}
+spam{
+    color: aqua;
+}
+.d1{
+    text-align: center;
+h3{
+    border-bottom: 10px solid darkcyan;
+    border-width: 2px;
+}
+p{
+    text-align: justify;
+}
+.p2{
+    text-align: justify;
+    color: grey;
+    border-left: 2px solid black;
+}
+}
+.d2{
+img{
+    border: 10px solid skyblue;
+    width: 760px;
+}
+}
+.d3{
+img{
+    border: 10px solid skyblue;
+    width: 760px;
+}
+}
+.d4{
+img{
+    border: 10px solid skyblue;
+    width: 760px;
+}
+}
